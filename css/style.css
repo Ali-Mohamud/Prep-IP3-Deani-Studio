@@ -27,3 +27,17 @@ h1{
     margin-top: 2.5rem;
     line-height: 2.2rem;
 }
+
+
+#services{
+    background-image: url("/Imgs/2nd\ img.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 8%;
+    color: white;
+    font-size: 1.4rem;
+    text-align: center;
+    margin-top: 3rem;
+    line-height: 2.2rem;
+}
