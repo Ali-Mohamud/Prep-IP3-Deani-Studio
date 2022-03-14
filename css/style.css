@@ -1,5 +1,5 @@
 .container-1{
-    background-image: url("/Imgs/1st\ \ img.jpg");
+    background-image: url("../Imgs/cover-1.jpg");
     background-size: cover;
     background-position: center ;
     background-repeat: no-repeat;
@@ -30,7 +30,7 @@ h1{
 
 
 #services{
-    background-image: url("/Imgs/2nd img.jpg");
+    background-image: url("../Imgs/cover-2.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -72,7 +72,7 @@ h1{
 }
 
 .contact{
-    background-image: url("/Imgs/c_image\ \(1\).jpg");
+    background-image: url("../Imgs/cover-3.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
