@@ -132,4 +132,16 @@ function () {
         opacity: '1' 
     });
 })
+
+
+$('.btn').click(function () {
+    var Name = $('#name').val();
+    var Email = $('#email').val();
+    var Message = $('#textarea');
+    if (Name == '' || Email == '' || Message == '') {
+        alert('Please fill the form correctly!');
+    } else {
+        alert(' Hi ' + Name  + ' we have received your message. Thank you for reaching out.');
+    }
+});
 });
