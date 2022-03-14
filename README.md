@@ -1,7 +1,7 @@
 # Delani Studio
 The officila  website for delani studio.
 
-
+<img src="Imgs/delani.png" alt="design icon">
 
 ## Table of content
 
