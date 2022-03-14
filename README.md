@@ -1,5 +1,6 @@
 # Delani Studio
-The officila  website for delani studio.
+A webpage for Delani studio which gives a detailed account about what they are, the services they offer, projects done so far and a contact page that the user can reach them to.
+
 
 <img src="Imgs/delani.png" alt="design icon">
 
