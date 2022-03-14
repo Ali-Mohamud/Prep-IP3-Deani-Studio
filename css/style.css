@@ -65,3 +65,21 @@ h1{
 .design-2, .design-3{
     font-size: 1.5rem;
 }
+
+
+.Portfolio{
+    margin-top: 3rem;
+}
+
+.contact{
+    background-image: url("/Imgs/c_image\ \(1\).jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 2%;
+    color: white;
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 3rem;
+}
