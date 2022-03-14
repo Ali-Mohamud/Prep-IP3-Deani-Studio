@@ -83,3 +83,14 @@ h1{
     text-align: center;
     margin-top: 3rem;
 }
+
+
+#name, #email, #textarea{
+    background: transparent;
+    color: white;
+}
+
+.form-group ::-webkit-input-placeholder{
+    color: white;
+}
+
